@@ -26,4 +26,3 @@ six==1.16.0
 tifffile==2021.11.2
 virtualenv==20.10.0
 Werkzeug==2.0.2
-opencv-python-headless==4.2.0.32
